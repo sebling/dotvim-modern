@@ -28,3 +28,6 @@
 [submodule "bundle/jellybeans"]
 	path = bundle/jellybeans
 	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/vim-jinja2"]
+	path = bundle/vim-jinja2
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git
