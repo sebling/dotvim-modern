@@ -98,7 +98,7 @@ if has("autocmd")
         autocmd!
         autocmd BufWritePost $MYVIMRC source $MYVIMRC
     augroup END
-    
+
 endif
 
 
