@@ -1,3 +1,5 @@
+# Archived - this project is no longer used - see the vim-config project
+
 Installation:
 
     git clone git://github.com/sebling/dotvim-modern.git ~/.vim
